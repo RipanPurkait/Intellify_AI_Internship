@@ -1,1 +1,1 @@
-# Intellify_AI_Internship
+# Intellify AI Internship Assignment
